@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
-    var myByte = -17
-    var myShort = 16
+    var myByte: Byte = -17
+    var myShort: Short = 16
     var myInt = 15000
     var myLong = 100000000000000000L
     var myFloat = 20.53F
